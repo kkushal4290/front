@@ -1,0 +1,28 @@
+[
+    [
+        {
+            "d_id": 1,
+            "item_name": "Pens",
+            "item_desc": "Pens lelo",
+            "item_picture": "/media/item_pictures/chesha1828_Pens_ff6f313df92a47d7b12fd619a7a8435a.png",
+            "Location": "new delhi",
+            "posted_date": "2023-06-25",
+            "is_claimed": false,
+            "createdby": 2
+        }
+    ],
+    {
+        "user": {
+            "id": 2,
+            "username": "chesha1828",
+            "email": "chesha1828@yahoo.com",
+            "bio": null,
+            "profile_picture": null,
+            "rating": null
+        }
+    },
+    {
+
+    }
+]
+
