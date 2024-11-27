@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export default axios.create({
-    baseURL: 'https://front-teal-xi.vercel.app/',
+    baseURL: 'https://shareaid.pythonanywhere.com/api',
 })
